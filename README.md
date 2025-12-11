@@ -24,13 +24,18 @@
 Data-Structures/
 ├─ README.md
 ├─ Projects/
-│  ├─ README.md
 │  └─ DataStructuresProject2/
-│     ├─ README.md
-│     └─ code.ipynb
+│     └─ ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final.ipynb
 └─ Exercises/
-    ├─ README.md
     └─ List1/
+    └─ List2/
+    └─ List3/
+    └─ List4/
+    └─ List5/
+    └─ List6/
+    └─ List7/
+    └─ List8/
+    └─ List9/
 ```
 
 <p align="center">
@@ -38,3 +43,4 @@ Data-Structures/
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
