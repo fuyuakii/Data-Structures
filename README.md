@@ -11,6 +11,8 @@
  - **`Projects/`**: Contém projetos realizados dentro e fora da faculdade, aplicando conceitos de Estruturas de Dados;
  - **`Exercises/`**: Contém exercícios diversos de Estruturas de Dados.
 
+---
+
 > **The purpose of this repository is to create a collection of study notes, projects, and exercises on Data Structures.**
  - **`Projects/`**: Contains projects developed inside and outside the university, applying Data Structures concepts.  
  - **`Exercises/`**: Contains various Data Structures exercises.
@@ -74,6 +76,7 @@ Data-Structures/
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
