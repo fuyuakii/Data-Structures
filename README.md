@@ -42,24 +42,20 @@ Data-Structures/
 
 
 <details>
-  <summary><b><code> Sobre os Projetos </code></b></summary>
-  <details>
-    <summary><b>Projeto de Grafos e Otimização de Rotas</b></summary>
-    O projeto **“ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final”** foi desenvolvido como trabalho final da disciplina de Estrutura de Dados 2, ministrada pela professora Rosangela de Fátima Pereira Marquesone, na UTFPR de Cornélio Procópio. A descrição do projeto pode ser visualizada em: **<code>Projects/202502_ED2_ProjetoFinal.pdf</code>**.
-
-A escolha do tema, *“Otimização de Rotas para Conteção de Queimadas no Paraná”*, foi motivada pela proposta da disciplina de sustentabilidade, envolvendo grafos e a aplicação de algoritmos. Para isso, foi escolhido o algoritmo **A\*** devido à sua eficácia.
-
-Os dados utilizados foram coletados diretamente do **INPE (Instituto Nacional de Pesquisas Espaciais)**, que disponibiliza informações sobre focos de incêndio ativos no dia da análise. Uma das ideias iniciais era utilizar a biblioteca **osmnx** do Python para capturar as coordenadas reais das rodovias, o que permitiria dados mais completos; entretanto, devido à poluição visual nos mapas, essa abordagem não foi implementada.
-
-Mais detalhes podem ser encontrados dentro do próprio projeto. O trabalho foi realizado em grupo, sendo que eu fiquei responsável pelos itens 1, 2, 3, 5 e 7, participei também do item 4 e contribuí para a organização do notebook.
-
-
-
-  <details>
-    <summary><b>Em construção :)</b></summary>
-  </details>
+    <summary><b><code>Sobre os Projetos</code></b></summary>
+    <details>
+        <summary><b>Projeto de Grafos e Otimização de Rotas</b></summary>
+        <p>O projeto <strong>“ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final”</strong> foi desenvolvido como trabalho final da disciplina de Estrutura de Dados 2, ministrada pela professora Rosangela de Fátima Pereira Marquesone, na UTFPR de Cornélio Procópio. A descrição do projeto pode ser visualizada em: <b><code>Projects/202502_ED2_ProjetoFinal.pdf</code></b>.</p>
+        <p>A escolha do tema "Otimização de Rotas para Conteção de Queimadas no Paraná" se deu por sua relação com a temática proposta pela professora, envolvendo sustentabilidade, grafos e a aplicação de algoritmos. Foi escolhido o algoritmo A* devido à sua eficácia. Os dados coletados foram obtidos diretamente do INPE (Instituto Nacional de Pesquisas Espaciais), que demonstra os focos de incêndio ocorrendo no dia.</p>
+        <p>Uma das ideias iniciais era utilizar a biblioteca <code>osmnx</code> do Python para capturar as coordenadas reais das rodovias, obtendo dados mais completos. Entretanto, devido à poluição visual, a ideia não foi implementada. Mais detalhes podem ser vistos dentro do projeto.</p>
+        <p>O trabalho foi realizado em grupo. Fui responsável pelos itens 1, 2, 3, 5 e 7, mas também participei do item 4 e da organização do notebook.</p>
+        <details>
+            <summary><b>Em construção :)</b></summary>
+        </details>
+    </details>
 </details>
-</details>
+
+
 
 
 ---
@@ -69,6 +65,7 @@ Mais detalhes podem ser encontrados dentro do próprio projeto. O trabalho foi r
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
