@@ -25,6 +25,7 @@ Data-Structures/
 ├─ README.md
 ├─ Projects/
 │   └── ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final.ipynb
+│   └── 202502_ED2_ProjetoFinal.pdf
 └─ Exercises/
     └─ List1/
     └─ List2/
@@ -60,6 +61,7 @@ Data-Structures/
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
