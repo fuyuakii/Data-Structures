@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=header"
+    alt="Header"
+  />
+</p>
+
 # Estrutura de Dados (Data Structures)
 
 > **O objetivo deste repositório é criar uma coleção de notas de estudo, projetos e exercícios sobre Estruturas de Dados.**
@@ -25,3 +32,9 @@ Data-Structures/
     ├─ README.md
     └─ List1/
 ```
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
+  />
+</p>
