@@ -45,8 +45,8 @@ Data-Structures/
   <summary><b><code> Sobre os Projetos </code></b></summary>
   <details>
     <summary><b>Projeto de Grafos e Otimização de Rotas</b></summary>
-    O projeto “ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final” foi desenvolvido como trabalho final da disciplina de Estrutura de Dados 2, ministrada pela professora Rosangela de Fátima Pereira Marquesone, na UTFPR de Cornélio Procópio.
-  </details>
+    O projeto “ED2_ProjetoGrafos_OtimizacaoRotasContencaoQueimadasParana_Final” foi desenvolvido como trabalho final da disciplina de Estrutura de Dados 2, ministrada pela professora Rosangela de Fátima Pereira Marquesone, na UTFPR de Cornélio Procópio. A descrição do projeto pode ser visualizada em:  [Projects/202502_ED2_ProjetoFinal.pdf](Projects/202502_ED2_ProjetoFinal.pdf)
+
   <details>
     <summary><b>Em construção :)</b></summary>
   </details>
@@ -61,6 +61,7 @@ Data-Structures/
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
