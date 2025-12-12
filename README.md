@@ -5,7 +5,7 @@
   />
 </p>
 
-# Estrutura de Dados (Data Structures)
+# **`Estrutura de Dados (Data Structures)`**
 
 > **O objetivo deste repositório é criar uma coleção de notas de estudo, projetos e exercícios sobre Estruturas de Dados.**
  - **`Projects/`**: Contém projetos realizados dentro e fora da faculdade, aplicando conceitos de Estruturas de Dados;
@@ -67,6 +67,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
