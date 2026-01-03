@@ -7,12 +7,14 @@
 
 # **`Estrutura de Dados (Data Structures)`**
 
+> [!IMPORTANT]
 > **O objetivo deste repositório é criar uma coleção de notas de estudo, projetos e exercícios sobre Estruturas de Dados.**
  - **`Projects/`**: Contém projetos realizados dentro e fora da faculdade, aplicando conceitos de Estruturas de Dados;
  - **`Exercises/`**: Contém exercícios diversos de Estruturas de Dados.
 
 ---
 
+> [!IMPORTANT]
 > **The purpose of this repository is to create a collection of study notes, projects, and exercises on Data Structures.**
  - **`Projects/`**: Contains projects developed inside and outside the university, applying Data Structures concepts.  
  - **`Exercises/`**: Contains various Data Structures exercises.
@@ -22,6 +24,9 @@
 
 ## 📂 Estrutura do Repositório (Repository Structure)
 
+<details>
+  <summary><b>Abrir para visualizar (Open to view)</b></summary>
+
 ```text
 ├── Projects
 │   ├── 202502_ED2_ProjetoFinal.pdf
@@ -30,6 +35,8 @@
 └── README.md
 
 ```
+
+ </details>
 
 ---
 
@@ -57,7 +64,8 @@
     </details>
 </details>
 
-> Note.: In the future, the final project description and the notebook will be translated into English.
+> [!NOTE]
+> In the future, the final project description and the notebook will be translated into English.
 
 
 ---
@@ -67,6 +75,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
