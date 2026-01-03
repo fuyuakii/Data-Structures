@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 # **`Estrutura de Dados (Data Structures)`**
 
 > [!IMPORTANT]
@@ -75,6 +77,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
