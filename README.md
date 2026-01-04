@@ -69,6 +69,15 @@
 > [!NOTE]
 > In the future, the final project description and the notebook will be translated into English.
 
+---
+
+## Repositório Recomendado (Recommended Repository)
+
+<p align="center">
+  <a href="https://github.com/fuyuakii/Object-Oriented-Programming">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/Object-Oriented-Programming&mode=dark&style=horizontal" alt="Object-Oriented-Programming"/>
+  </a>
+</p>
 
 ---
 
@@ -77,6 +86,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
