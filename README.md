@@ -6,7 +6,7 @@
 </p>
 
 
-![Hologram Banner](https://ishan-rest.vercel.app/svg/banner/hologram/Hello)
+![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/Welcome)
 
 ---
 
@@ -100,6 +100,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
