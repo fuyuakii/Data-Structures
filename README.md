@@ -84,7 +84,7 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/https://github.com/fuyuakii/StudyTopics" width="600"/></td>
+      <td><img src="https://dynamic-repo-badges.vercel.app/svg/count/5/Repository%20Views/https://github.com/fuyuakii/Data-Structures" width="600"/></td>
       <td><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/:)" width="400"/></td>
     </tr>
   </table>
@@ -97,6 +97,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
