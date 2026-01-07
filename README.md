@@ -72,6 +72,9 @@
 > [!NOTE]
 > In the future, the final project description and the notebook will be translated into English.
 
+![Graph Project](Projects/project.svg)
+
+
 ---
 
 ## Repositório Recomendado (Recommended Repository)
@@ -100,6 +103,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20B2AA&section=footer"
   />
 </p>
+
 
 
 
